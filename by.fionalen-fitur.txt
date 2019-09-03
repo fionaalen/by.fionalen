@@ -38,3 +38,9 @@ id (auto), e-Mail, password, confirm password, name, mobile phone, birthdate, De
 DATABASE
 ------------
 postgresql 9.6
+
+
+UML
+-------
+Class Diagram
+ER Diagram
