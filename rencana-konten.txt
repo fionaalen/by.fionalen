@@ -1,3 +1,4 @@
 RENCANA KONTEN (OPERASI)
 -------------------------
 - LOG IN
+- REGISTER
