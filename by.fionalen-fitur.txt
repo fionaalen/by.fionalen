@@ -34,7 +34,3 @@ Member
 -------
 id (auto), e-Mail, password, confirm password, name, mobile phone, birthdate, Delivery Address (Address, Country, State/Province, City/District, Postal Code)
 
----------------------------------
-CRUD (Create Read Update Delete)
----------------------------------
-Tentukan method2 yang diperlukan
