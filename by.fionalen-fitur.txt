@@ -1,0 +1,40 @@
+1. Modul Admin
+	- insert, update, view and delete Item
+		-> Item (id (auto), kode, name, category, colour, size, price, material, description, quantity, image, promo, weight, weight unit)
+	- insert, update, delete category
+	- insert, update, delete size
+	- insert, update, delete material
+	- insert, update, delete colour
+	- view and delete Member
+	- Sales report per day/month/year
+	- Manajemen Stok (Stok awal, Stok Masuk, Stok Keluar, Penjualan, Penyesuaian, Stok Akhir)
+	- Void Transaction
+	- insert promo Item (Sale Item)
+
+2. Modul Chasier
+	- Register Chasier
+	- Login Chasier
+	- Sales Order (print struk, scan barcode)
+	- Void Transaction ... request to admin
+	- Search Item
+	- View Order ... print struk
+
+3. Modul Online Shop
+   	- Home
+	- Category/Catalog (View Item)
+	- Search Item
+	- Register (or sign with Facebook)
+	- Log in (e-Mail and password)
+	- Account (Account Info, Change Password, Order History, Invite Your Friend, Logout)
+	- Testimonials
+	- Contact
+	- Cart
+
+Member
+-------
+id (auto), e-Mail, password, confirm password, name, mobile phone, birthdate, Delivery Address (Address, Country, State/Province, City/District, Postal Code)
+
+---------------------------------
+CRUD (Create Read Update Delete)
+---------------------------------
+
