@@ -35,3 +35,12 @@ Member
 id (auto), e-Mail, password, confirm password, name, mobile phone, birthdate, Delivery Address (Address, Country, State/Province, City/District, Postal Code)
 
 
+DATABASE
+------------
+postgresql 9.6
+
+
+UML
+-------
+Class Diagram
+ER Diagram
