@@ -37,4 +37,4 @@ id (auto), e-Mail, password, confirm password, name, mobile phone, birthdate, De
 ---------------------------------
 CRUD (Create Read Update Delete)
 ---------------------------------
-
+Tentukan method2 yang diperlukan
